@@ -68,12 +68,6 @@ export default App;
 
 ---
 
-## Why I Built This
-
-I created `RenderDebugger` to strengthen my debugging skills, practice AI prompting, and become a more efficient developer. While building it, I also explored how AI tools like Copilot can accelerate problem-solving. My goal is to build tools that are functional, practical, and empower other developers.
-
----
-
 ## Development
 
 To run the development environment:
